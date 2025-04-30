@@ -1,9 +1,9 @@
 matplotlib
 matplotlib.pyplot
-sklearn
 seaborn
 pandas
 pygwalker
 plotly.express
 numpy
 joblib 
+scikit-learn
