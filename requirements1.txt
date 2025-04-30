@@ -1,0 +1,7 @@
+matplotlib
+seaborn
+pandas
+pygwalker
+plotly.express
+numpy
+joblib 
