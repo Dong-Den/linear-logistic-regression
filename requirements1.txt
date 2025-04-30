@@ -1,4 +1,6 @@
 matplotlib
+matplotlib.pyplot
+sklearn
 seaborn
 pandas
 pygwalker
